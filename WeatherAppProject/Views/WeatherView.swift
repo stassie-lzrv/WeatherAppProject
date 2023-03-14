@@ -24,7 +24,7 @@ struct WeatherView: View {
                 VStack{
                     HStack{
                         VStack(spacing: 30){
-                            Image(systemName: "sun.max")
+                            Image(systemName: "cloud")
                                 .font(.system(size: 40))
                             Text(weather.weather[0].main)
                         }
