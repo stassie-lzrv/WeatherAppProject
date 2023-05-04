@@ -1,2 +1,2 @@
 # WeatherAppProject
-![img](/img1.png)
+![img](/img1.jpeg)
